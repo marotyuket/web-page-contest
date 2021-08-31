@@ -1,0 +1,29 @@
+body {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center; /* 中央揃え */
+}
+img.gazo1 {
+    width: 40%; /* 横の長さ */
+}
+img.gazo2 {
+    width: 30%;
+}
+img.gazo3 {
+    width: 60%;
+}
+span {
+    font-size: 100pt; /* 文字の大きさ */
+    color: lightgrey; /* 文字の色 */
+    font-weight: bolder; /* 文字の太さ */
+}
+input {
+    border-radius:30px 30px 30px 30px;
+    outline:none;
+    border-color: black;
+    background-color: #fff;
+    color: #000;
+    font-weight: bolder;
+    font-size: 1em;
+    width: 200px;
+}
